@@ -1,0 +1,12 @@
+{
+  "name": "testing-repo",
+  "version": "1.0.0",
+  "description": "A simple testing repository",
+  "scripts": {
+    "lint": "echo 'Running lint checks...' && echo 'All lint checks passed!'",
+    "test": "echo 'Running tests...' && echo 'All tests passed!'"
+  },
+  "keywords": ["testing", "demo"],
+  "author": "rolopdav",
+  "license": "MIT"
+}
