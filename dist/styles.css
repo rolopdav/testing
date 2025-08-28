@@ -234,17 +234,17 @@ body {
 .new-badge {
     margin-left: auto;
     background: white;
-    color: #8b5cf6;
-    border: 1px solid #8b5cf6;
+    color: #595cef;
+    border: 1px solid #595cef;
     font-size: 11px;
     padding: 2px 6px;
     border-radius: 8px;
-    font-weight: 500;
+    font-weight: normal;
     display: inline-flex;
     align-items: center;
     gap: 2px;
-    -webkit-text-stroke: 1px #8b5cf6;
-    text-stroke: 1px #8b5cf6;
+    -webkit-text-stroke: 1px #595cef;
+    text-stroke: 1px #595cef;
 }
 
 /* Main Content */
