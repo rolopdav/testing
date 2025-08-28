@@ -233,11 +233,12 @@ body {
 
 .new-badge {
     margin-left: auto;
-    background: #007bff;
-    color: white;
+    background: white;
+    color: #8b5cf6;
+    border: 1px solid #8b5cf6;
     font-size: 11px;
     padding: 2px 6px;
-    border-radius: 4px;
+    border-radius: 8px;
     font-weight: 500;
     display: inline-flex;
     align-items: center;
