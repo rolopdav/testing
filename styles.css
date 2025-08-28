@@ -243,6 +243,8 @@ body {
     display: inline-flex;
     align-items: center;
     gap: 2px;
+    -webkit-text-stroke: 1px #8b5cf6;
+    text-stroke: 1px #8b5cf6;
 }
 
 /* Main Content */
